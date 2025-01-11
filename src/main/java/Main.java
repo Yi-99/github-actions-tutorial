@@ -17,6 +17,9 @@ public class Main {
             case "multiply":
                 System.out.println(c.multiply(a, b));
                 break;
+            case "divide":
+                System.out.println(c.divide(a, b));
+                break;
             case "binary":
                 System.out.println(c.intToBinaryNumber(a));
                 break;
